@@ -1,4 +1,4 @@
-# ABT
+# AscensionTargets(BETA) - ABT
 PvP addon for BG`s enemy frames! (Ascension)
 # Как скачать аддон? How to download the addon?
 - C правой стороны зелёная кнопка с надписью CODE / On the right side there is a green button with the inscription CODE.
